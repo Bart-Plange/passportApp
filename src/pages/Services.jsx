@@ -27,7 +27,7 @@ const Services = () => {
           title="Dual Citizens"
           description="Understand your rights and requirements as a dual citizen."
           buttonText="Learn More"
-          buttonLink="/help"
+          buttonLink="/dualcitizens"
         />
         <Card
           title="Elderly Applicants"

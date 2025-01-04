@@ -9,7 +9,7 @@ const Navbar = () => {
   };
 
   return (
-    <nav className="sticky top-0 bg-black bg-opacity-50 backdrop-blur-sm z-20">
+    <nav className="sticky top-0 bg-black bg-opacity-70 backdrop-blur-sm z-20">
       <div className="container mx-auto flex justify-between items-center px-6 py-3">
         <h1 className="text-white text-2xl font-bold">Passport Office</h1>
 

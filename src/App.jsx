@@ -21,8 +21,8 @@ const App = () => {
         <Route path="/help" element={<Help />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/firsttimeapplicant" element={<FirstTimeApplicant />} />
+        <Route path="/dualcitizens" element={<DualCitizens />} />
         <Route path="/status-tracking" element={<StatusTracking />} />
-        <Route path="/dual-citizens" element={<DualCitizens />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
     </Router>

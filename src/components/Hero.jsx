@@ -5,7 +5,7 @@ const Hero = () => {
         {/* Text Section */}
         <div className="md:w-1/2 mt-20 text-left">
           <h1 className="text-7xl md:text-8xl font-bold mb-4">
-            Streamline Passport Management
+            Ops! Passport So easy to get
           </h1>
           <p className="text-xl mb-6">
             Effortless passport application, renewal, and tracking system powered by modern technology.
